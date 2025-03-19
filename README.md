@@ -22,10 +22,9 @@ Technologies Used
 Getting Started
 
 
-1. Clone the repository: git clone <repo-url>
-2. Install dependencies: pip install ipython-sql prettytable==0.7.2
-3. Connect to your MySQL database: %sql mysql://root:your_password@localhost/your_database
-4. Run the SQL queries in the Jupyter Notebook to generate insights.
+1. Install dependencies: pip install ipython-sql prettytable==0.7.2
+2. Connect to your MySQL database: %sql mysql://root:your_password@localhost/your_database
+3. Run the SQL queries in the Jupyter Notebook to generate insights.
 
 Dataset
 

@@ -1,7 +1,14 @@
 # Customer-Analysis-using-SQL
 
-Overview
+Problem Statement
 
+Many businesses struggle to make data-driven decisions due to the lack of insights from their customer data. Without a clear understanding of sales trends, customer behavior, and business growth, companies risk missing opportunities to optimize their operations, improve customer satisfaction, and increase revenue.
+
+Goal
+
+The goal of this project is to analyze customer data using SQL to uncover actionable insights that inform business decisions. By examining sales performance, customer behavior, and business growth over time, this project aims to provide a comprehensive understanding of the customer dataset and identify opportunities for improvement.
+
+Overview
 
 This project focuses on analyzing customer data using SQL to uncover insights related to sales performance, customer behavior, and business growth over time. The analysis is performed using MySQL, leveraging SQL queries to extract, transform, and visualize key metrics.
 
